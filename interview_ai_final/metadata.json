@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI",
+  "description": "Interactive mock-up simulator and production-ready Flutter + Dart clean-architecture codebase for the InterviewAI platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

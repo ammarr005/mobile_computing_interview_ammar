@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382615137326",
+    "project_id": "interviewai-4b88d",
+    "storage_bucket": "interviewai-4b88d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382615137326:android:bf14468ce494c8b54083bf",
+        "android_client_info": {
+          "package_name": "com.example.interviewai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382615137326-vaijagb6hcc9j9ltm10r8ts0p19vi0c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGz3Kf5yMJOabhpb53wzlrh_0rxTBUWxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382615137326-vaijagb6hcc9j9ltm10r8ts0p19vi0c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
